@@ -6,7 +6,7 @@ def gentree():
     for x in range(1,23):
         rnd1=randint(1,rnd2)
         if x==1:
-            ch='$'
+            ch='©'
         elif rnd1%4==0:
             ch='o'
         elif rnd1%3==0:
